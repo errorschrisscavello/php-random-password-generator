@@ -1,0 +1,405 @@
+----
+Testing default parameters: length=8, type=alpha_numeric
+Running...
+
+LSsA7MTI
+Vs8E3qP8
+wq1DqDq5
+4lnQjAeT
+sbuP3acV
+M3eNJPiq
+8eoLdyFr
+0OH9GAf0
+Hd8wlL3j
+Ubft6ib7
+
+Done.
+
+----
+Testing default parameters: length=0, type=alpha_numeric
+Running...
+
+
+Done.
+
+----
+Testing default parameters: length=1234567890, type=alpha_numeric
+Running...
+
+
+Done.
+
+----
+Testing default parameters: length=32, type=alpha_numeric
+Running...
+
+wo9U8BV6OE2XCeFmf1Md6gSCnQr5Tt4F
+OhhkRPKby9BBSwCBfkxBJfB532y1stGk
+iuO9HYrtTJjJgntUwm1hwCpf6kSLyqIU
+IgQfD9lRrvoRP4sWDFtYDdW76KfmmRYE
+edU7N8BWVb8V9E10lwnbOrQI3eOykKfg
+DIa8yU5hnaQxYrST7RwqkX4n4BpWyniJ
+hEEnW6tTEIjExntPyV8WMf71HI6r3d44
+aXhb9CcWdwUbAxjkn5exXRcRwmtUPMiA
+h5QFqtdclHPuY8eQA4jA4csqjQNqc3fC
+LVGygj2owpsA1bRG5oiYOHMOPmJLUHni
+
+Done.
+
+----
+Testing default parameters: length=8, type=foo
+Running...
+
+
+Done.
+
+----
+Testing default parameters: length=8, type=lower
+Running...
+
+mmbresvl
+swoijucm
+xblqrgra
+bqowtmow
+smtjswgm
+puyerwhj
+ufeukbno
+ooireeyn
+bdtvencm
+sjjuyxmd
+
+Done.
+
+----
+Testing default parameters: length=8, type=upper
+Running...
+
+GHDUOCTD
+FDBTTCGD
+UYAOBSCU
+BNUTMTBR
+QSUGFCVH
+DJCHQOKU
+RWMJULQB
+YXJHOSGG
+XCNWCOED
+JACHVEUA
+
+Done.
+
+----
+Testing default parameters: length=8, type=alpha
+Running...
+
+dPONNBGb
+BBwKgCcE
+CSsxEdFM
+csMXMFIA
+EuRxSCsR
+UhHTbtyk
+redcHpdL
+YCILgFAj
+JvJdVpGt
+xCGJwvoe
+
+Done.
+
+----
+Testing default parameters: length=8, type=numeric
+Running...
+
+80625080
+45353130
+56987902
+77441928
+22013272
+46955629
+27700290
+65929201
+96312548
+49519690
+
+Done.
+
+----
+Testing default parameters: length=8, type=symbol
+Running...
+
+|^-}|,-"
+.@.]}"<?
+=,!+\[$_
+'%~'+";~
+>@|(]#]!
+:*(_)[!)
+:@),+)*-
++^&&&>}>
+[|`^,]*.
+,[\-@@_,
+
+Done.
+
+----
+Testing default parameters: length=8, type=alpha_numeric
+Running...
+
+xde1Hubg
+0gxYrJQH
+PvHwUJlw
+heWPKf8x
+P49IEs5B
+inX1Ab00
+xnLiqXq5
+SVvXShla
+0QUqMhU9
+NeR7Jolo
+
+Done.
+
+----
+Testing default parameters: length=8, type=alpha_numeric_dash
+Running...
+
+-f0kRosh
+A8NOP7ET
+-fto-o-s
+ekOYGOR2
+oNAX4y-K
+myQA-siY
+kb4tQ5IP
+RDOKDWPg
+g2yDNVy-
+aK8eLDxD
+
+Done.
+
+----
+Testing default parameters: length=8, type=alpha_numeric_underscore
+Running...
+
+NCkSAcvM
+eYGpgbjX
+oJOCnqLW
+lAUeTRFI
+RTUWIIIY
+DcNKg2o5
+n4Jn_cAl
+fSq09JnR
+_iBrKixN
+6prXOhg6
+
+Done.
+
+----
+Testing default parameters: length=8, type=alpha_numeric_dash_underscore
+Running...
+
+GVb8Qrgt
+Y7QPdvco
+XylYRx0Y
+stmOYHP9
+JSHvunm4
+h1y4EGj0
+XtNi62Pd
+_LWLA4J5
+V2C0JGLF
+LEJj2CT7
+
+Done.
+
+----
+Testing default parameters: length=8, type=all
+Running...
+
+P,agT#3&
+lV$Dc*GM
+jX"Kc*ES
+6b,Ti_HQ
+-1B,(k;E
+_:7Dh{).
+wgy`8Uv<
+_`vd$4MA
+M#W0)^t~
+4qH77&f6
+
+Done.
+
+----
+Probability for length= 1, type=lower
+Iteration range: 0 - 96
+Average probability tests_run[100] max_iterations[1000000]: 1 / 23
+Real probability: 1 / 25
+Charset length: 25
+----
+Probability for length= 1, type=upper
+Iteration range: 0 - 111
+Average probability tests_run[100] max_iterations[1000000]: 1 / 24
+Real probability: 1 / 25
+Charset length: 25
+----
+Probability for length= 1, type=alpha
+Iteration range: 1 - 291
+Average probability tests_run[100] max_iterations[1000000]: 1 / 48
+Real probability: 1 / 50
+Charset length: 50
+----
+Probability for length= 1, type=numeric
+Iteration range: 0 - 55
+Average probability tests_run[100] max_iterations[1000000]: 1 / 9
+Real probability: 1 / 10
+Charset length: 10
+----
+Probability for length= 1, type=symbol
+Iteration range: 0 - 139
+Average probability tests_run[100] max_iterations[1000000]: 1 / 33
+Real probability: 1 / 32
+Charset length: 32
+----
+Probability for length= 1, type=alpha_numeric
+Iteration range: 0 - 328
+Average probability tests_run[100] max_iterations[1000000]: 1 / 58
+Real probability: 1 / 60
+Charset length: 60
+----
+Probability for length= 1, type=alpha_numeric_dash
+Iteration range: 1 - 312
+Average probability tests_run[100] max_iterations[1000000]: 1 / 58
+Real probability: 1 / 61
+Charset length: 61
+----
+Probability for length= 1, type=alpha_numeric_underscore
+Iteration range: 0 - 315
+Average probability tests_run[100] max_iterations[1000000]: 1 / 55
+Real probability: 1 / 61
+Charset length: 61
+----
+Probability for length= 1, type=alpha_numeric_dash_underscore
+Iteration range: 0 - 365
+Average probability tests_run[100] max_iterations[1000000]: 1 / 56
+Real probability: 1 / 62
+Charset length: 62
+----
+Probability for length= 1, type=all
+Iteration range: 0 - 409
+Average probability tests_run[100] max_iterations[1000000]: 1 / 92
+Real probability: 1 / 92
+Charset length: 92
+----
+Probability for length= 2, type=lower
+Iteration range: 10 - 2396
+Average probability tests_run[100] max_iterations[1000000]: 1 / 606
+Real probability: 1 / 625
+Charset length: 25
+----
+Probability for length= 2, type=upper
+Iteration range: 10 - 3314
+Average probability tests_run[100] max_iterations[1000000]: 1 / 611
+Real probability: 1 / 625
+Charset length: 25
+----
+Probability for length= 2, type=alpha
+Iteration range: 31 - 9454
+Average probability tests_run[100] max_iterations[1000000]: 1 / 2540
+Real probability: 1 / 2500
+Charset length: 50
+----
+Probability for length= 2, type=numeric
+Iteration range: 2 - 686
+Average probability tests_run[100] max_iterations[1000000]: 1 / 113
+Real probability: 1 / 100
+Charset length: 10
+----
+Probability for length= 2, type=symbol
+Iteration range: 13 - 8436
+Average probability tests_run[100] max_iterations[1000000]: 1 / 1279
+Real probability: 1 / 1024
+Charset length: 32
+----
+Probability for length= 2, type=alpha_numeric
+Iteration range: 7 - 17139
+Average probability tests_run[100] max_iterations[1000000]: 1 / 3155
+Real probability: 1 / 3600
+Charset length: 60
+----
+Probability for length= 2, type=alpha_numeric_dash
+Iteration range: 23 - 18348
+Average probability tests_run[100] max_iterations[1000000]: 1 / 3598
+Real probability: 1 / 3721
+Charset length: 61
+----
+Probability for length= 2, type=alpha_numeric_underscore
+Iteration range: 144 - 19176
+Average probability tests_run[100] max_iterations[1000000]: 1 / 4230
+Real probability: 1 / 3721
+Charset length: 61
+----
+Probability for length= 2, type=alpha_numeric_dash_underscore
+Iteration range: 93 - 22387
+Average probability tests_run[100] max_iterations[1000000]: 1 / 3975
+Real probability: 1 / 3844
+Charset length: 62
+----
+Probability for length= 2, type=all
+Iteration range: 207 - 39294
+Average probability tests_run[100] max_iterations[1000000]: 1 / 10170
+Real probability: 1 / 8464
+Charset length: 92
+----
+Probability for length= 3, type=lower
+Iteration range: 283 - 78893
+Average probability tests_run[100] max_iterations[1000000]: 1 / 16890
+Real probability: 1 / 15625
+Charset length: 25
+----
+Probability for length= 3, type=upper
+Iteration range: 109 - 85278
+Average probability tests_run[100] max_iterations[1000000]: 1 / 18052
+Real probability: 1 / 15625
+Charset length: 25
+----
+Probability for length= 3, type=alpha
+Iteration range: 575 - 643173
+Average probability tests_run[100] max_iterations[1000000]: 1 / 127112
+Real probability: 1 / 125000
+Charset length: 50
+----
+Probability for length= 3, type=numeric
+Iteration range: 0 - 4172
+Average probability tests_run[100] max_iterations[1000000]: 1 / 1011
+Real probability: 1 / 1000
+Charset length: 10
+----
+Probability for length= 3, type=symbol
+Iteration range: 73 - 193008
+Average probability tests_run[100] max_iterations[1000000]: 1 / 36401
+Real probability: 1 / 32768
+Charset length: 32
+----
+Probability for length= 3, type=alpha_numeric
+Iteration range: 1824 - 1000000
+Average probability tests_run[100] max_iterations[1000000]: 1 / 229174
+Real probability: 1 / 216000
+Charset length: 60
+----
+Probability for length= 3, type=alpha_numeric_dash
+Iteration range: 1519 - 1000000
+Average probability tests_run[100] max_iterations[1000000]: 1 / 242903
+Real probability: 1 / 226981
+Charset length: 61
+----
+Probability for length= 3, type=alpha_numeric_underscore
+Iteration range: 1365 - 1000000
+Average probability tests_run[100] max_iterations[1000000]: 1 / 221317
+Real probability: 1 / 226981
+Charset length: 61
+----
+Probability for length= 3, type=alpha_numeric_dash_underscore
+Iteration range: 479 - 1000000
+Average probability tests_run[100] max_iterations[1000000]: 1 / 251494
+Real probability: 1 / 238328
+Charset length: 62
+----
+Probability for length= 3, type=all
+Iteration range: 31 - 1000000
+Average probability tests_run[100] max_iterations[1000000]: 1 / 575547
+Real probability: 1 / 778688
+Charset length: 92
